@@ -2,6 +2,7 @@
   "domain": "veolia",
   "name": "Veolia",
   "codeowners": ["@CorentinGrard"],
+  "config_flow": true,
   "documentation": "https://github.com/CorentinGrard/veolia",
   "integration_type": "device",
   "iot_class": "cloud_polling",
