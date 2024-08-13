@@ -1,11 +1,11 @@
 {
   "domain": "veolia",
   "name": "Veolia",
-  "version": "1.0",
   "codeowners": ["@CorentinGrard"],
   "documentation": "https://github.com/CorentinGrard/veolia",
   "integration_type": "device",
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/CorentinGrard/veolia/issues",
-  "requirements": ["veoliAPI"]
+  "requirements": ["veoliAPI"],
+  "version": "1.0"
 }
