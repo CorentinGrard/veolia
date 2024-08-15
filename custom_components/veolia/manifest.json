@@ -7,6 +7,6 @@
   "integration_type": "device",
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/CorentinGrard/veolia/issues",
-  "requirements": ["veoliAPI"],
+  "requirements": ["veoliAPI","homeassistant-historical-sensor==2.0.0rc6"],
   "version": "0.2.0"
 }

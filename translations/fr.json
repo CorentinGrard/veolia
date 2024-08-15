@@ -1,0 +1,14 @@
+{
+    "config": {
+      "step": {
+        "user": {
+          "data": {
+            "username": "Email de connection Veolia",
+            "password": "Mot de passe Veolia"
+          },
+          "description": "Entrez vos identifiants Veolia.",
+          "title": "Autentification"
+        }
+      }
+    }
+  }
